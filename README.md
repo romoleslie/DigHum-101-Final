@@ -1,9 +1,9 @@
 # DigHum-101-Final
 San Francisco Airbnb Analysis
 
-By: Leslie Romo
-Institution: University of California, Berkeley
-Course: Digital Humanities 101
+By: Leslie Romo  
+Institution: University of California, Berkeley  
+Course: Digital Humanities 101  
 
 ![ab](https://user-images.githubusercontent.com/87342778/176987915-bfd4ea73-a8e8-4b13-96e2-be91879c46a4.jpeg)
 
